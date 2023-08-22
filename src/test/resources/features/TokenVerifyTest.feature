@@ -1,4 +1,3 @@
-@regression
 Feature: token verify Feature
 
   Background: setup test
